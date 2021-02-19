@@ -1,0 +1,20 @@
+svn co svn://127.0.0.1/repository --username brent --password 19921420
+
+
+
+http://localhost:9091/client/api/app?method=login&username=admin&password=123456
+
+nY27+X7Gyr8L7yl+wGkhkQ==
+
+
+{"resultState":0,"resultMessage":"","resultData":{"token":"nY27+X7Gyr8L7yl+wGkhkQ==","user":{"sid":1,"username":"admin","password":null,"name":"管理员","roleid":0,"mobile":"13888888888","sex":0,"usertype":0,"address":"江苏省苏州市XX区XX路XX号","createdate":"2019-05-21 15:43:50.0","creatorid":1}}}
+
+
+
+
+http://114.217.156.82:40191/client/api/app?method=login&username=admin&password=123456
+
+
+
+
+商品   添加定价规则   新增订单的形式  以及新增分配
